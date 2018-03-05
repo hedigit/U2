@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">U2</string>
+    <string name="welcome_to_the_wild_code_school">Welcome to the Wild Code School</string>
+    <string name="yes_i_am_a_wilder">Yes, I\'am a Wilder!</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="accept">Accept</string>
 </resources>

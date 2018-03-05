@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity
                         EditText lastname = findViewById(R.id.lastname);
                         String lastnamecontent = lastname.getText().toString();
                         if (firstnamecontent.isEmpty() || lastnamecontent.isEmpty()){
-                            Toast.makeText(MainActivity.this, "Plaese insert your Lastname and Firstname", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(MainActivity.this, "Please insert your Lastname and Firstname", Toast.LENGTH_SHORT).show();
 
                         }
 

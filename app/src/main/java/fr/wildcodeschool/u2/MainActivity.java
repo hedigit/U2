@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity
                             textvisible.setVisibility(View.VISIBLE);
                             String message = ("Congratulation " + firstnamecontent +" " + lastnamecontent);
                             textvisible.setText(message);
-                            Toast.makeText(MainActivity.this, "Congratulation",  Toast.LENGTH_SHORT).show();
+
                         }
 
                     }
